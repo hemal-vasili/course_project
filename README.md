@@ -46,7 +46,7 @@ Removes unwanted or outdated products from inventory, helping keep records up to
     ```
 2. Run it in the terminal:
     ```bash
-    ./stock_management_system
+    ./stock_management_system.exe
     ```
 3. Use the on-screen menu to add, view, update, search, or delete products.
 
