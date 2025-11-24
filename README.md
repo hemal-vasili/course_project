@@ -69,35 +69,8 @@ This application illustrates the blending of programming theory with practical u
 
 ## Author
 
-*Your Name*  
+*Hemal*  
 ITP Project  
 SAI University, Chennai
 
 ---
-
-## 💡 Tips for Pasting on GitHub
-
-1. **Copy this entire text** (including the title and all sections)
-2. **Go to your GitHub repository** and click on "Add file" → "Create new file"
-3. **Name your file:** `README.md` (exactly like this, case-sensitive)
-4. **Paste the copied content** into the file editor
-5. **Preview tab:** Click the "Preview" button to see how it will look
-6. **Commit:** Scroll down and click "Commit new file"
-
-### Formatting Tips
-
-- Keep blank lines between sections for proper spacing
-- Don't add extra indentation—GitHub Markdown handles it automatically
-- Code blocks use triple backticks (\`\`\`) with the language name
-- Headings use `#` symbols (more `#` = smaller heading)
-- Lists automatically format with proper bullets
-
-### Common Issues to Avoid
-
-❌ Don't copy from Word/Google Docs (use plain text)  
-❌ Don't add extra spaces before lines  
-❌ Don't mix tabs and spaces  
-✅ Copy directly from here and paste into GitHub  
-✅ Use the Preview tab to check formatting before committing
-
-Your README will look clean, professional, and exactly like other academic project repositories!
