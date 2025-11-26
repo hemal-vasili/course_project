@@ -50,22 +50,8 @@ Removes unwanted or outdated products from inventory, helping keep records up to
     ```
 3. Use the on-screen menu to add, view, update, search, or delete products.
 
-## Menu Sample
 
-```
-==== Stock Management System ====
-1. Add Product
-2. View Products
-3. Search Product
-4. Update Product
-5. Delete Product
-6. Exit
-Enter your choice:
-```
 ## Output Screenshots
-
-> After running the program, capture console windows as images and place them in a `screenshots/` folder in your repository.  
-> Update the filenames below if you use different names.
 
 ### Main Menu Output
 
