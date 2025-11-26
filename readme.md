@@ -48,8 +48,6 @@ Removes unwanted or outdated products from inventory, helping keep records up to
     ```bash
     ./stock_management_system
     ```
-3. Use the on-screen menu to add, view, update, search, or delete products.
-
 
 ## Output Screenshots
 
