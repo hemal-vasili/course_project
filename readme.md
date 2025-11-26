@@ -62,6 +62,40 @@ Removes unwanted or outdated products from inventory, helping keep records up to
 6. Exit
 Enter your choice:
 ```
+## Output Screenshots
+
+> After running the program, capture console windows as images and place them in a `screenshots/` folder in your repository.  
+> Update the filenames below if you use different names.
+
+### Main Menu Output
+
+![Main Menu Output](screenshots/output-main-menu.png)
+
+This screenshot shows the initial text-based menu with options to add, view, search, update, delete products, and exit the program.
+
+### Add Product Output
+
+![Add Product Output](screenshots/output-add-product.png)
+
+This screenshot displays the console prompts and user input while adding a new product (ID, name, company, price, quantity) and the success message after saving.
+
+### View Products Output
+
+![View Products Output](screenshots/output-view-products.png)
+
+This screenshot shows the tabular listing of all products currently stored in `stock.dat`, including their IDs, names, companies, prices, and quantities.
+
+### Search Product Output
+
+![Search Product Output](screenshots/output-search-product.png)
+
+This screenshot shows the input of a product ID and the corresponding product details displayed when the item is found.
+
+### Update/Delete Output (Optional)
+
+![Update Delete Output](screenshots/output-update-delete.png)
+
+This screenshot captures updating or deleting a product, including the confirmation message and the updated table/record status.
 
 ## Technical Details
 
